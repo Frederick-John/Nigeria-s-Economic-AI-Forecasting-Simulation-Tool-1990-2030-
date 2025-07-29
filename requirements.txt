@@ -1,0 +1,12 @@
+## ✅ `requirements.txt`
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+gradio
+streamlit
+openpyxl
+catboost
+
